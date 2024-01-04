@@ -15,9 +15,9 @@ export default function Page() {
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
          <div className={styles.shape}></div>
          <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Twilo Demo API.</strong> This is the example for with{' '}
+            <strong>Welcome to Twilo Demo API.</strong> This is an example with{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              NextJS and ReactJS with .NET Web API endpoint calling Twilio SMS Service
+              NextJS and ReactJS with .NET Web API Endpoints calling Twilio Text Services.
             </a>
             <br />
             Created by Kapoor And Ayushi{' '}
