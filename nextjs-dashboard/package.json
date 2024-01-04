@@ -37,5 +37,11 @@
   },
   "engines": {
     "node": ">=18.17.0"
-  }
+  },
+  "name": "nextjs-dashboard",
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }

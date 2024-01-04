@@ -1,3 +1,5 @@
 export default function Page() {
-  return <p>Dashboard Page</p>;
+  return <h1>Hello, Twilio!</h1>
 }
+
+export async function GET() {}
